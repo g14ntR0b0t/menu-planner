@@ -1,0 +1,1 @@
+web: gunicorn dj_menu_planner.wsgi
