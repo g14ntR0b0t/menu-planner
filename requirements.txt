@@ -5,3 +5,5 @@ ipython
 django-cors-headers==4.9.0
 gunicorn
 django-extensions
+dj-database-url
+psycopg2-binary
